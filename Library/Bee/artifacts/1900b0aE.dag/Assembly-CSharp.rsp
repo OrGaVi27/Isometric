@@ -364,6 +364,7 @@
 "Assets/Scripts/Player/CharacterMap.cs"
 "Assets/Scripts/Player/PlayerStateManager.cs"
 "Assets/Scripts/Player/PlayerVariables.cs"
+"Assets/Scripts/RotatingPlatform.cs"
 -langversion:9.0
 /deterministic
 /optimize+
