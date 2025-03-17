@@ -361,10 +361,12 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/ImputSystem/IsometricCharacter.cs"
+"Assets/Scripts/GameEvents.cs"
+"Assets/Scripts/Platforms/RotatingPlatform.cs"
+"Assets/Scripts/Platforms/SwitchComponent.cs"
 "Assets/Scripts/Player/CharacterMap.cs"
 "Assets/Scripts/Player/PlayerStateManager.cs"
 "Assets/Scripts/Player/PlayerVariables.cs"
-"Assets/Scripts/RotatingPlatform.cs"
 -langversion:9.0
 /deterministic
 /optimize+
